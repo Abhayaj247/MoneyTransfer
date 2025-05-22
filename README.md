@@ -110,11 +110,11 @@ The frontend will be available at `http://localhost:3000` and the backend at `ht
 ### Authentication
 - `POST /api/v1/user/signup` - Register a new user
 - `POST /api/v1/user/signin` - Login user
+- `GET /api/v1/user/me` - Get current user information
 
 ### Account
 - `GET /api/v1/account/balance` - Get user balance
 - `POST /api/v1/account/transfer` - Transfer money
-- `GET /api/v1/account/transactions` - Get transaction history
 
 ## 🚀 Deployment
 
