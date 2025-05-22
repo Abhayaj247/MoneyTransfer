@@ -1,0 +1,7 @@
+.env
+node_modules
+<<<<<<< HEAD
+dist
+=======
+dist/
+>>>>>>> 6eddf8b (initial commit)
